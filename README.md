@@ -7,8 +7,8 @@
 <h1>Instruction - integrated ViroReact with existing project </h1>
 
 <h1>ViroMedia</h1>
-<h3>ViroMedia allows android: ARCore ios: ArKit </h3>
-<h2>Also, its open source and you can develop "AR(Augmented Reality)"  via ViroMedia easily!</h2>
+<h4>ViroMedia allows android: ARCore ios: ArKit </h4>
+<h4>Also, its open source and you can develop "AR(Augmented Reality)"  via ViroMedia easily!</h4>
 
 React Native Project v0.59.9
 It's opened project and entegreted ViroReact.
