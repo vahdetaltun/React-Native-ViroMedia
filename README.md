@@ -23,7 +23,7 @@
 
 <h2> NOTE ! </h2>
 <ul>
-<li>Android >= 7.0.0</li>
-<li>IOS >= 9.0.0</li>
+  <li>Android >= 7.0.0</li>
+  <li>IOS >= 9.0.0</li>
 </ul>
 </div>
