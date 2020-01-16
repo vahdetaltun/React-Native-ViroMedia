@@ -14,7 +14,7 @@
 <p>It's opened project and entegreted ViroReact. Created React Native Project v0.59.9</p>
 <p><b>Note:</b> You can open ViroMedia via existing project. React-Native version must be < 59.9<p> 
 
-<h2>installation</h2>
+<h2>Installation</h2>
 <ul>
   <li>To get started, you need to do 4 steps in the first ViroReact.</li>
   <li>You cannot use react-native run-android.</li>
