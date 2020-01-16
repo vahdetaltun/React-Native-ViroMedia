@@ -18,7 +18,7 @@
 <ul>
   <li>
     To get started, you need to do 4 steps in the first ViroReact.
-    <a href="https://docs.viromedia.com/docs/quick-start-windows">For Windows</a>
+    <a href="https://docs.viromedia.com/docs/quick-start-windows">For Windows</a> /
     <a href="https://docs.viromedia.com/docs/quick-start">For Mac/Linux</a>
   </li>
   <li>You cannot use react-native run-android.</li>
