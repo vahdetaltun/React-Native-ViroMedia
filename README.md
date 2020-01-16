@@ -25,5 +25,6 @@
 <ul>
   <li>Android >= 7.0.0</li>
   <li>IOS >= 9.0.0</li>
+  <li>Used structure of Router-Flux</li>
 </ul>
 </div>
