@@ -16,3 +16,8 @@ Note: You can open ViroMedia via existing project. React-Native version must be 
 </ul>
 
 
+<h2> NOTE </h2>
+<ul>
+<li>Android >= 7.0.0</li>
+<li>IOS >= 9.0.0</li>
+</ul>
